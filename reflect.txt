@@ -1,0 +1,28 @@
+/* -------------------------------------------
+Name: Eric Rabiner
+Student number: 038806063
+Email: erabiner@myseneca.ca
+Section: L
+Date: Saturday, Nov. 17, 2018
+----------------------------------------------
+Assignment: 2
+Milestone:  4
+---------------------------------------------- */
+
+3. Briefly explain how the two functions findContactIndex and 
+getTenDigitPhone benefit your source code with respect to overall maintenance and readability.
+4. What did you learn most from doing Assignment 2?
+
+findContactIndex and getTenDigitPhone are being called by other functions a
+significant number of times, therefore greatly reducing the repitition of
+code. If there is something wrong with these two functions, I would only
+have to change the code in one place rather than every place it is used.
+The reader only has to look in one place to understand what the purpose 
+of these two functions are used for.
+
+I learned many things from assignment 2 such as understanding how to implement 
+functions in the course code, the use of header files, and the use of 
+other library files. One example is the string.h file where strings cannot be 
+changed via the equals sign but rather the library function strcpy(). 
+Additionally, I learned how to use the Bubble sort and how to sort contacts
+by cell phone number.
