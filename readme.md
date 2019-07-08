@@ -1,6 +1,6 @@
 # Contact Management System
 
-An application written in C that can add, update, delete, and sort a contact list.
+An application written in C that can add, update, search, delete, and sort a contact list.
 
 ## Prerequisites
 Install the Minimalist GNU for Windows
